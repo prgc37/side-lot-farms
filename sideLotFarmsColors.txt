@@ -1,0 +1,3 @@
+body background - (246, 177, 61) #f6b13d
+font            - (97, 163, 22)  #61a316
+yellowish       - (244, 215, 66) #f4d742

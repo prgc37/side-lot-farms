@@ -1,0 +1,4 @@
+https://github.com/angular/angular-seed
+
+angular 1.7.1 		6/11/18
+
